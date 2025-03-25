@@ -1,7 +1,7 @@
 # 💰 VCA Investment - Vera Cruz Assets
 
 <div align="center">
-<img src="https://github.com/claudio-lins/vca-invest-web_clerk/raw/main/.gitassets/capa.png" width="350" />
+<img src="https://github.com/claudio-lins-dev/vca-invest/blob/main/assets/07.jpg?raw=true" width="350" />
 </div>
 
 <br/>
